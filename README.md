@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jesús Márquez
+# <img src="avatar.svg" width="160" />
 ### `Full Stack Developer`
 
 *Building complete web experiences — from pixel-perfect UIs to solid, scalable backends.*
@@ -15,32 +15,18 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td>⚡</td>
-    <td>Full Stack developer — I own the whole product, from UI to database</td>
-  </tr>
-  <tr>
-    <td>🎨</td>
-    <td>Building interfaces with <strong>React</strong>, <strong>Vue</strong>, <strong>Tailwind</strong> and <strong>Blade</strong></td>
-  </tr>
-  <tr>
-    <td>⚙️</td>
-    <td>Powering backends with <strong>Laravel</strong>, <strong>PHP</strong> and <strong>Node.js</strong></td>
-  </tr>
-  <tr>
-    <td>🗄️</td>
-    <td>Designing schemas and queries in <strong>PostgreSQL</strong>, MySQL and MongoDB</td>
-  </tr>
-  <tr>
-    <td>🐧</td>
-    <td>Living in <strong>WSL</strong> — Linux workflow, Windows machine</td>
-  </tr>
-  <tr>
-    <td>🤝</td>
-    <td>Open source enthusiast — I believe in sharing knowledge and collaborating</td>
-  </tr>
-</table>
+<div align="center">
+
+| | |
+|:---:|:---|
+| ⚡ | Full Stack developer — I own the whole product, from UI to database |
+| 🎨 | Building interfaces with **React**, **Vue**, **Tailwind** and **Blade** |
+| ⚙️ | Powering backends with **Laravel**, **PHP** and **Node.js** |
+| 🗄️ | Designing schemas and queries in **PostgreSQL**, MySQL and MongoDB |
+| 🐧 | Living in **WSL** — Linux workflow, Windows machine |
+| 🤝 | Open source enthusiast — I believe in sharing knowledge and collaborating |
+
+</div>
 
 ---
 
