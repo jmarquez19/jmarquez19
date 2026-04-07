@@ -1,0 +1,9 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="97" fill="#0D1117" stroke="#A78BFA" stroke-width="2"/>
+  <circle cx="100" cy="100" r="82" fill="none" stroke="#A78BFA" stroke-width="0.5" opacity="0.25"/>
+  <text x="100" y="58" font-family="monospace" font-size="16" fill="#A78BFA" text-anchor="middle" opacity="0.9">{{ $hello }}</text>
+  <text x="78" y="116" font-family="Georgia, serif" font-size="56" font-weight="700" fill="#ffffff" text-anchor="middle" font-style="italic">J</text>
+  <text x="124" y="116" font-family="Georgia, serif" font-size="56" font-weight="700" fill="#A78BFA" text-anchor="middle" font-style="italic">M</text>
+  <line x1="46" y1="128" x2="154" y2="128" stroke="#A78BFA" stroke-width="0.7" opacity="0.4"/>
+  <text x="100" y="152" font-family="monospace" font-size="16" fill="#A78BFA" text-anchor="middle" opacity="0.9">{{ $world }}</text>
+</svg>
